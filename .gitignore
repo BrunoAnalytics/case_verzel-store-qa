@@ -1,0 +1,21 @@
+# Ambientes Virtuais
+venv/
+.venv/
+env/
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Cache do Pytest e Relatórios
+.pytest_cache/
+allure-results/
+allure-report/
+debug_tela_carrinho.png
+
+# IDEs e Sistema
+.vscode/
+.idea/
+.DS_Store
